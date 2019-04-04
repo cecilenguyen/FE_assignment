@@ -1,0 +1,14 @@
+{
+  "name": "s2-frontend-homework",
+  "version": "1.0.0",
+  "description": "Semantic Scholar frontend candidate homework",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "AllenAI.org",
+  "license": "ISC",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
